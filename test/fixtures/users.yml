@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  first_name: MyString
-  last_name: MyString
-  email: MyString
-  avatar_url: MyString
+  first_name: Foo
+  last_name: Bar
+  email: 'foo@bar.com'
+  avatar_url: 'http://via.placeholder.com/100x100.jpg'
 
 two:
-  first_name: MyString
-  last_name: MyString
-  email: MyString
-  avatar_url: MyString
+  first_name: Baz
+  last_name: Qux
+  email: 'baz@qux.com'
+  avatar_url: 'http://via.placeholder.com/100x100.jpg'
